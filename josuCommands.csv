@@ -1,0 +1,5 @@
+commands,self.getCommands()
+what time is it,self.getTime()
+where is,self.whereIs()
+play,self.playSong()
+quit,self.quitJosu()
