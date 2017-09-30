@@ -16,7 +16,8 @@ Default commands
   
 - play
   * opens Youtube with specified song request
-  ** Note ** 
+  
+  * Note
     - currently only displays search results, need to implement a way of clicking the top result 
     - also need to test and make sure that multiple word searches dont cause an error
     
